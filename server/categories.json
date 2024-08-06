@@ -1,0 +1,44 @@
+[
+  {
+    "categoryEmoji": "🏡",
+    "categoryTitle": "Home",
+    "createdAt": "2024-08-05T05:03:17.092Z",
+    "tasksCount": 0
+  },
+  {
+    "categoryEmoji": "",
+    "categoryTitle": "Completed",
+    "createdAt": "2024-08-05T05:03:17.092Z",
+    "tasksCount": 0
+  },
+  {
+    "categoryEmoji": "",
+    "categoryTitle": "Personal",
+    "createdAt": "2024-08-05T05:03:17.092Z",
+    "tasksCount": 2
+  },
+  {
+    "categoryEmoji": "",
+    "categoryTitle": "Work",
+    "createdAt": "2024-08-05T05:03:17.092Z",
+    "tasksCount": 3
+  },
+  {
+    "categoryEmoji": "💪",
+    "categoryTitle": "Diet",
+    "createdAt": "2024-08-05T05:36:03.259Z",
+    "tasksCount": 1
+  },
+  {
+    "categoryEmoji": "📚",
+    "categoryTitle": "List of Book",
+    "createdAt": "2024-08-05T06:07:43.997Z",
+    "tasksCount": 1
+  },
+  {
+    "categoryEmoji": "🚗",
+    "categoryTitle": "Road trip list",
+    "createdAt": "2024-08-05T09:31:26.326Z",
+    "tasksCount": 0
+  }
+]
